@@ -2,6 +2,10 @@
 
 A Python script that demonstrates Support Vector Machine (SVM) classification on the breast cancer dataset using scikit-learn. The script visualizes the decision boundary of the SVM classifier using the first two features of the dataset.
 
+## Visualization Example
+
+![SVM Decision Boundary](./cancer_svm_analysis.png)
+
 ## Requirements
 
 - Python 3.10 or above
